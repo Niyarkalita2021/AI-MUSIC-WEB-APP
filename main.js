@@ -84,7 +84,7 @@ function draw() {
     {
         document.getElementById("speed").innerHTML = "Speed = 1x";
         song.rate(1);
-    }
+    }ytuuttry
     
     else if(rightWristY >200 && rightWristY <= 300)
     {
